@@ -65,7 +65,7 @@ Install Visual Studio
 
 Set up MASM and Irvine32 library
 
-Create a new MASM project
+Create a new MASM project and file name should have .asm extension.
 
 Add the .asm file to the project
 
